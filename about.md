@@ -4,7 +4,7 @@ title: /about
 permalink: /about/
 ---
 
-# jekyll-theme-console
+# Who am I?! 
 
 Hi I'm Jiri Pasek - twentytwo years old Czech Technical University student. I was into various technologies all my life, so I've decided to study Informatics, Computer science etc.. Programming, networking, developing and learning new things are some of my passions.
 
