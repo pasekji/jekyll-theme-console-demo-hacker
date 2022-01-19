@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Welcome Stranger!
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+This website is in "permanent" state of development. Sometimes, when I feel to, I'm implementing new features or writing some posts. Feel free to explore!
