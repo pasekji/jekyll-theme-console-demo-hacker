@@ -6,10 +6,6 @@ permalink: /about/
 
 # jekyll-theme-console
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+Hi I'm Jiri Pasek - twentytwo years old Czech Technical University student. I was into various technologies all my life, so I've decided to study Informatics, Computer science etc.. Programming, networking, developing and learning new things are some of my passions.
 
-## What is jekyll?
-
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+If you want to learn something about my skills, get in touch with me on my [LinkedIn](https://www.linkedin.com/in/pasekjiri/)!
